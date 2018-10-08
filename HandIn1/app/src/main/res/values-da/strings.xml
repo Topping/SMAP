@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aflevering1</string>
+    <string name="details_button">Detaljer</string>
+    <string name="details_title">Titel:</string>
+    <string name="details_author">Forfatter:</string>
+    <string name="details_pages">Sidetal:</string>
+    <string name="details_fiction">Fiktion:</string>
+    <string name="editBtn">Rediger</string>
+    <string name="cancelBtn">Afbryd</string>
+    <string name="radioBtnYes">Ja</string>
+    <string name="radioBtnNo">Nej</string>
+    <string name="okBtn">Ok</string>
+    <string name="requiredError">Krævet</string>
+    <string name="notANumberError">Ikke et gyldigt tal</string>
+</resources>

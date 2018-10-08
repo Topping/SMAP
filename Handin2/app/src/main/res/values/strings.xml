@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">au540177 Weather App</string>
+    <string name="openweathermapurl" translatable="false">https://api.openweathermap.org/data/2.5/</string>
+    <string name="openweathermapiconurl" translatable="false">http://openweathermap.org/img/w/</string>
+    <string name="openweathermapkey" translatable="false">99cc88c84787e26bd8f5b0597923378c</string>
+
+    <string name="edit">Edit</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="mycity_title">My City:</string>
+    <string name="cityselection_dialog">Enter City Name</string>
+    <string name="cityselection_hint">City Name</string>
+    <string name="cityselection_mycity">City</string>
+
+    <string name="weathernotification_title">Weather Data</string>
+    <string name="weathernotification_content">Weather Updated</string>
+
+    <string name="sharedpreferences_id" translatable="false">WeatherAppPreferences</string>
+    <string name="sharedpreferences_citykey" translatable="false">MyCity</string>
+    <string name="sharedpreferences_servicestate" translatable="false">SERVICE_STATE</string>
+
+    <string name="details_windtitle">Wind</string>
+    <string name="details_temperaturetitle">Temperature</string>
+    <string name="details_descriptiontitle">Description</string>
+
+    <string name="broadcast_weatherlistready">WEATHER_LIST_UPDATED</string>
+    <string name="broadcast_mycityready">MY_CITY_UPDATED</string>
+    <string name="broadcast_nointernet">NO_INTERNET_AVAILABLE</string>
+
+    <string name="error_nointernet">No internet available.</string>
+
+    <string name="intentcode_selectedcityname">SELECTED_CITY_NAME</string>
+</resources>

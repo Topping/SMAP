@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">au540177 Vejr App</string>
+    <string name="mycity_title">Min by:</string>
+    <string name="edit">Rediger</string>
+    <string name="cityselection_dialog">Indtast Bynavn</string>
+    <string name="cityselection_hint">Bynavn</string>
+    <string name="cityselection_mycity">By</string>
+    <string name="weathernotification_title">Vejr Data</string>
+    <string name="weathernotification_content">Vejr Data opdateret</string>
+    <string name="details_windtitle">Vind</string>
+    <string name="details_temperaturetitle">Temperatur</string>
+    <string name="details_descriptiontitle">Beskrivelse</string>
+    <string name="error_nointernet">Ingen forbindelse tilgængelig</string>
+</resources>

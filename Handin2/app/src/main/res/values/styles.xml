@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:textViewStyle">@style/textViewStyle</item>
+        <item name="android:listViewStyle">@style/listViewStyle</item>
+        <item name="android:alertDialogStyle">@style/MyAlertDialogStyle</item>
+    </style>
+
+    <style name="textViewStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+    <style name="listViewStyle" parent="android:Widget.ListView">
+        <item name="android:background">@color/colorSecondary</item>
+        <item name="android:listSelector">@drawable/selectedlistitem</item>
+    </style>
+
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Dialog.Alert">
+        <!-- Used for the buttons -->
+        <item name="colorAccent">@color/colorWhite</item>
+        <!-- Used for the title and text -->
+        <item name="android:textColorPrimary">@color/colorWhite</item>
+        <!-- Used for the background -->
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+
+
+</resources>

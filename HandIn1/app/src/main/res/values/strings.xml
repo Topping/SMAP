@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HandIn1</string>
+    <string name="book_title">Your Book Title</string>
+    <string name="book_author">Book Author</string>
+    <string name="details_button">Details</string>
+    <string name="details_title">Title:</string>
+    <string name="details_author">Author:</string>
+    <string name="details_pages">Pages:</string>
+    <string name="details_fiction">Fiction:</string>
+    <string name="okBtn">Ok</string>
+    <string name="editBtn">Edit</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="radioBtnYes">Yes</string>
+    <string name="radioBtnNo">No</string>
+    <string name="requiredError">Required</string>
+    <string name="notANumberError">Not a valid number</string>
+</resources>
